@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace CalendarDemo;
+namespace Demo;
 
 public partial class MainWindow : Window
 {
